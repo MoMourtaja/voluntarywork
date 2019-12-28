@@ -6,6 +6,10 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app! test test text addedd from mo</Text>
     <Text>Hello it's me</Text>
+      <Text>Open up App.js to start working on your app! test test </Text>
+      <Text>hello world
+        what else ?
+      </Text>
     </View>
   );
 }
